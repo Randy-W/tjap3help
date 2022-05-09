@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>TJAPlayer3导航 Blog</title>
+        <link>https://your-docusaurus-test-site.com/blog</link>
+        <description>TJAPlayer3导航 Blog</description>
+        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[欢迎]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/欢迎</link>
+            <guid>欢迎</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[<!-- Simply add Markdown files (or folders) to the blog directory.]]></description>
+            <content:encoded><![CDATA[<p>你就不应该觉得这里面有东西（</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

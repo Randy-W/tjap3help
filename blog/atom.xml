@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-test-site.com/blog</id>
+    <title>TJAPlayer3导航 Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <subtitle>TJAPlayer3导航 Blog</subtitle>
+    <icon>https://your-docusaurus-test-site.com/img/hero.png</icon>
+    <entry>
+        <title type="html"><![CDATA[欢迎]]></title>
+        <id>欢迎</id>
+        <link href="https://your-docusaurus-test-site.com/blog/欢迎"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<!-- Simply add Markdown files (or folders) to the blog directory.]]></summary>
+        <content type="html"><![CDATA[<p>你就不应该觉得这里面有东西（</p>]]></content>
+    </entry>
+</feed>
