@@ -30,7 +30,8 @@ TJAPlayer3是使用C#语言编写的，所以需要依赖.NET运行库才可运�
 [点击这里前往下载，](https://dotnet.microsoft.com/en-us/download/dotnet-framework)。也可以百度搜索运行库合集下载。
 
 ### DirectX
-:::tip 报错
-什么什么....d3dx9_43.dll....什么什么...
+:::tip 报错，第一句显示：
+d3dx9_43.dll is not found......
 :::
-百度搜关键词dx9修复，下载修复包安装即可。
+
+百度搜关键词dx9修复，下载修复包安装即可。[比如这个链接](https://safe.51xiazai.cn/huajunsafe/DirectX4.1.0.30770.rar)，百度随手搜的链接，如果失效请及时反馈。
