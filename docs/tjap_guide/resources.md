@@ -37,6 +37,8 @@ TJAP3读取的是tja格式的谱面。大量tja谱面的合集即为曲包。
 [点击这里下载](https://pan.baidu.com/s/1AdgivoXvkRjgB4-jtbg0BA?pwd=TJAP)
 
 优点在于量大，在曲名上会有一些错误，但瑕不掩瑜。
+
+本曲包全部来自[TJADB](https://discord.gg/XHcVYKW)　Thank you very much.
 :::
 
 
