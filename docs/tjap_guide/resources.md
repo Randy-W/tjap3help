@@ -31,8 +31,9 @@ TJAP3读取的是tja格式的谱面。大量tja谱面的合集即为曲包。
 
 他们拥有一个名为ESE(Every Song Ever) Project的项目，旨在收录太鼓达人官方收录过的所有谱面，是非常庞大的曲包，并且同时收录了歌曲的歌词和BGA。缺点是所有**曲名和歌词均为英文翻译，没有一个日文或汉字**。~~也就是说一首歌也不认识（~~
 
-:::note 好消息
-目前，网页鼓Taiko Web(https://taiko.bui.pm/)采用的也是这个曲包，但是歌曲列表有日文选择。所以我将网页版的曲包爬虫下载了下来，并**将tja内TITLE和SUBTITLE改为日文**。<br/>
+:::tip 好消息
+目前，网页鼓Taiko Web(https://taiko.bui.pm/)采用的也是这个曲包，但是歌曲列表有日文选择。所以我将网页版的曲包爬虫下载了下来，并将tja内TITLE和SUBTITLE改为日文。
+
 [点击这里下载](https://pan.baidu.com/s/1AdgivoXvkRjgB4-jtbg0BA?pwd=TJAP)
 
 优点在于量大，在曲名上会有一些错误，但是瑕不掩瑜，十分推荐！
