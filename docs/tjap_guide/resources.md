@@ -32,7 +32,7 @@ TJAP3读取的是tja格式的谱面。大量tja谱面的合集即为曲包。
 他们拥有一个名为ESE(Every Song Ever) Project的项目，旨在收录太鼓达人官方收录过的所有谱面，是非常庞大的曲包，并且同时收录了歌曲的歌词和BGA。缺点是所有**曲名和歌词均为英文翻译，没有一个日文或汉字**。~~也就是说一首歌也不认识（~~
 
 :::tip 好消息
-目前，网页鼓Taiko Web(https://taiko.bui.pm/)采用的也是这个曲包，但是歌曲列表有日文选择。所以我将网页版的曲包爬虫下载了下来，并将tja内TITLE和SUBTITLE改为日文。
+目前，网页鼓Taiko Web(taiko.bui.pm) 采用的也是这个曲包，但是歌曲列表有日文选择。所以我将网页版的曲包爬虫下载了下来，并将tja内TITLE和SUBTITLE改为日文。
 
 [点击这里下载](https://pan.baidu.com/s/1AdgivoXvkRjgB4-jtbg0BA?pwd=TJAP)
 
@@ -47,8 +47,8 @@ TJAP3读取的是tja格式的谱面。大量tja谱面的合集即为曲包。
 :::note 注意一下
 请认真回答入群问题，请勿回答如"某某网站让我来的"或类似的答案。<br/>
 <font color="red">该群非文档编写者创建，也与文档编写者无关，该群管理员对于本网站也并不知情。别人问你为什么进群你直球回答：“曲包”、“为了曲包”、“那个中国大陆玩家的曲包”，在该群管理员看来是十分迷惑的行为。</font><br/>
-
-![lowEQ](/img/resources/lowEQ.png)
+<!-- 
+![lowEQ](/img/resources/lowEQ.png) -->
 :::
 
 > 关于如何安装曲包，请前往[配置 > 配置文件 > 曲包路径](./config_file.md#曲包路径)查看
