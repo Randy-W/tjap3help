@@ -70,7 +70,6 @@ const config = {
             label: '教程',
           },
           {to: '/blog', label: '部分问题和解答', position: 'left'},
-          {to: '/others', label: '其它文档', position: 'left'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',
