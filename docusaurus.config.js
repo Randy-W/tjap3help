@@ -105,7 +105,7 @@ const config = {
                 href: 'https://jq.qq.com/?_wv=1027&k=s1bIpTVx',
               },
               {
-                label: '广告位招租',
+                label: '太鼓达人 交流群',
                 href: 'https://jq.qq.com/?_wv=1027&k=RCQ38a3E',
               },
             ],
