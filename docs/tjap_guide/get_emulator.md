@@ -61,6 +61,15 @@ sidebar_position: 1
 
 [TaikoCatsCaffe](https://pan.baidu.com/s/1KPctzUPdi-WDhASh3Sigcg?pwd=TJAP)
 
+[TJAPlayer3-Develop](https://github.com/TJAPlayer3-Develop/TJAPlayer3-Develop)
+
+[TJAPlayer3-Develop-ReWrite](https://github.com/touhourenren/TJAPlayer3-Develop-ReWrite)
+
+[TJAPlayer for 3DS](https://github.com/togetg/TJAPlayer_for_3DS)
+
+[TJAPlayer on Mac](https://github.com/darkcl/TJAPlayerMac)
+
+
 
 
 
