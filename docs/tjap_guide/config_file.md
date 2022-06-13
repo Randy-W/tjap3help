@@ -68,9 +68,9 @@ FontName=FOT-OedKtr Std E
 
 ; Perfect～Poor とみなされる範囲[ms]
 // highlight-start
-Perfect=36
-Good=90
-Poor=117
+Perfect=35
+Good=75
+Poor=108
 // highlight-end
 ```
 <details>
