@@ -4,7 +4,7 @@
 
 在TJAP3软件目录下往往都有一个文件名为`Config.ini`，这是它的配置文件，其中包含了众多设置选项，以下介绍几种常用的设置。
 
-> 由于TJAP3采用的文本编码均为`Shift-jis`，而它的配置文件也不例外，所以你需要准备一个顺手的文本编辑器，如果使用记事本软件打开则默认会采用`GBK`编码，会导致显示大量乱码。<br/>这里推荐轻量级的[Notepad3](https://www.rizonesoft.com/downloads/notepad3/#google_vignette)，或功能更丰富的[Visual Studio Code](https://code.visualstudio.com/)。如果用这两个软件在打开`Config.ini`时仍然乱码，选择`Shift-jis`编码即可
+> 由于TJAP3采用的文本编码均为`Shift-jis`，而它的配置文件也不例外，所以你需要准备一个顺手的文本编辑器。你可以直接使用记事本软件打开它，但它会默认采用`GBK`编码，这会导致画面中显示大量乱码。<br/>这里推荐轻量级的[Notepad3](https://www.rizonesoft.com/downloads/notepad3/#google_vignette)，或功能更丰富的[Visual Studio Code](https://code.visualstudio.com/)。如果用这两个软件在打开`Config.ini`时仍然乱码，选择`Shift-jis`编码即可
 
 
 ## 曲包路径
@@ -27,11 +27,11 @@ TJAPath=.\      ; <- 默认表示整个文件夹目录
 
 
 ## 字体
-> 在进行设置前，需要先将想要使用的字体安装进系统内，再进行设置。
+> 在进行设置前，**需要先将想要使用的字体安装进系统内**，再进行设置。
 
 <details>
 <summary>字体怎么安装进系统啊？</summary>
-双击一个字体文件将其打开，你将看到下图的窗口。
+双击一个字体文件可以将其打开，你将看到下图的窗口。
 
 ![font1](/img/config_file/font1.png)
 </details>

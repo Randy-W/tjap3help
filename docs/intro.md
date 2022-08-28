@@ -8,14 +8,16 @@ sidebar_position: 1
 
 TJAPlayer3(以下简称TJAP3)，是一款在电脑端运行的太鼓达人模拟器，玩家可以通过TJAP3来游玩tja格式的太鼓达人游戏谱面，也可以游玩玩家制作的自制谱面。
 
-> 不过这个名字最开始为psp的一款自制软件，后来在3DS上也有人制作了同名软件。
+> 不过这个名字最开始为psp的一款自制软件(TJAPlayer)，后来也有人为3DS制作了同名软件(TJAPlayer for 3DS)。
 
-:::note 　 
-TJAPlayer3本身是开源软件，意味着任何人都可以下载一份源码，然后修改成自己想要的效果。将修改过后版本也统称为TJAP3也是可以的。以下是几个推荐的版本。
-:::
+通过阅读本教程，你可以学习到有关TJAP3相关模拟器的基本入门操作。
 
 
 ## 主要分支
+
+:::note 　 
+TJAP3本身是开源软件，意味着任何人都可以下载一份源码，然后修改成自己想要的效果。将修改过后版本也统称为TJAP3也是可以的。以下是几个推荐的版本。
+:::
 
 目前广为玩家所知的版本为[AioiLight维护的TJAPlayer3](https://github.com/AioiLight/TJAPlayer3)，也是TJAPlayer3的原始版本，不过已经停止更新了。
 
@@ -23,6 +25,10 @@ TJAPlayer3本身是开源软件，意味着任何人都可以下载一份源码�
 、[0auBSQ维护的OpenTaiko](https://github.com/0auBSQ/OpenTaiko)、[KabanFriends维护的TJAPlayer3GL](https://github.com/KabanFriends/TJAPlayer3GL)等。
 
 至今仍在维护的分支为[OpenTaiko](https://github.com/0auBSQ/OpenTaiko)，它功能丰富、性能优秀，是目前较为流行的模拟器之一。
+
+:::note 　 
+文档本次更新时间为2022/8/28，此时OpenTaiko的版本号为0.5.4
+:::
 
 :::tip 提示
 以上为主要为TJAPlayer做出贡献的玩家，可以为他们的项目点一个小星星🌟
