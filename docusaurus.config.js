@@ -97,10 +97,6 @@ const config = {
                 href: 'https://jq.qq.com/?_wv=1027&k=xcvIDySW',
               },
               {
-                label: '太鼓达人 全国群',
-                href: 'https://vdse.bdstatic.com//192d9a98d782d9c74c96f09db9378d93.mp4?authorization=bce-auth-v1/40f207e648424f47b2e3dfbb1014b1a5/2021-07-12T02:14:24Z/-1/host/530146520a1c89fb727fbbdb8a0e0c98ec69955459aed4b1c8e00839187536c9',
-              },
-              {
                 label: '太鼓达人 萌新窝',
                 href: 'https://jq.qq.com/?_wv=1027&k=s1bIpTVx',
               },
@@ -117,10 +113,10 @@ const config = {
                 label: '部分问题和解答',
                 to: '/blog',
               },
-              // {
-              //   label: 'GitHub',
-              //   href: 'https://vdse.bdstatic.com//192d9a98d782d9c74c96f09db9378d93.mp4?authorization=bce-auth-v1/40f207e648424f47b2e3dfbb1014b1a5/2021-07-12T02:14:24Z/-1/host/530146520a1c89fb727fbbdb8a0e0c98ec69955459aed4b1c8e00839187536c9',
-              // },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/Randy-W/tjap3help',
+              },
             ],
           },
         ],
