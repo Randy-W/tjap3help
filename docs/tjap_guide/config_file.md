@@ -57,6 +57,13 @@ FontName=FOT-OedKtr Std E
 ![font1](/img/config_file/font1.png)
 </details>
 
+<details>
+<summary>字体名称是中文怎么办啊？</summary>
+这里有两个解决办法：
+1.通过获取字体对应的英文名称直接填写，如FontCreator。
+2.下载前文提到的文本编辑器，打开配置文件后如没有乱码，直接键入字体即可。
+
+</details>
 
 ## 判定范围
 在Config.ini中找到如下语句，一般在中间至末尾处。这些是不同判定的区间，默认的判定范围如下，十分宽松。
